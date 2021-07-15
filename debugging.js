@@ -1,16 +1,4 @@
-// const items = [
-//   { name: "bike", price: 100 },
-//   { name: "tv", price: 1000 },
-//   { name: "book", price: 10 },
-//   { name: "table", price: 50 },
-//   { name: "computer", price: 110 },
-//   { name: "chair", price: 300 },
-// ];
-
-// for (let item of items) {
-//   console.log(item);
-// }
-
+//debugging opdrachtcd
 const array = [
   { name: "N. Armstrong", profession: "spacecowboy", age: 89 },
   { name: "H. de Haan", profession: "kippen hypnotiseur", age: 59 },
